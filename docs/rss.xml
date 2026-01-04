@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>c语言</title><link>https://jcc134613-bot.github.io/jcc.github.io</link><description>c语言的学习</description><copyright>c语言</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/252820894?v=4</url><title>avatar</title><link>https://jcc134613-bot.github.io/jcc.github.io</link></image><lastBuildDate>Sun, 04 Jan 2026 10:28:40 +0000</lastBuildDate><managingEditor>c语言</managingEditor><ttl>60</ttl><webMaster>c语言</webMaster><item><title>c主要内容</title><link>https://jcc134613-bot.github.io/jcc.github.io/post/c-zhu-yao-nei-rong.html</link><description>#1.程序框架
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>c语言</title><link>https://jcc134613-bot.github.io/jcc.github.io</link><description>c语言的学习</description><copyright>c语言</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/252820894?v=4</url><title>avatar</title><link>https://jcc134613-bot.github.io/jcc.github.io</link></image><lastBuildDate>Sun, 04 Jan 2026 10:49:59 +0000</lastBuildDate><managingEditor>c语言</managingEditor><ttl>60</ttl><webMaster>c语言</webMaster><item><title>c主要内容</title><link>https://jcc134613-bot.github.io/jcc.github.io/post/c-zhu-yao-nei-rong.html</link><description># 1.程序框架
 例：#include &lt;stdio.h&gt;
 int main(){
 
    return 0;
 }
-#2.输出printf()
-#3./n表示换一行
-#4.变量
+# 2.输出printf()
+# 3./n表示换一行
+# 4.变量
 例：int price=0;
 这里定义了一个变量，int是类型，price是名字，初始值是零。</description><guid isPermaLink="true">https://jcc134613-bot.github.io/jcc.github.io/post/c-zhu-yao-nei-rong.html</guid><pubDate>Sun, 04 Jan 2026 09:46:48 +0000</pubDate></item></channel></rss>
