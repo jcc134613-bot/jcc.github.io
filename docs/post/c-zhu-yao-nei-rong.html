@@ -106,12 +106,20 @@ int main(){</p>
 对变量的理解，变量是一个保存数据的地方，并参与后面程序的运算<br>
 命名规则<strong>由字母数字和下划线组成</strong>，<strong>数字不能出现在第一个位置上</strong>，c语言中的关键字不能作为标识符</p>
 <h2>类型名称</h2>
-<p>1）整数类型（表示正数、负数和零<br>
+<p>1）整数类型（表示正数、负数和零）<br>
 <code class="notranslate">char      //字符型，通常1字节</code><br>
 <code class="notranslate">short    //短整型，通常2字节</code><br>
 <code class="notranslate">int        //整型，通常4字节</code><br>
 <code class="notranslate">long     //长整型，通常4或8字节</code><br>
-<code class="notranslate">long long    //长长整型，c99标准，通常8字节</code></p>
+<code class="notranslate">long long    //长长整型，c99标准，通常8字节</code><br>
+2）浮点类型（表示实数和科学计数法的数）<br>
+<code class="notranslate">float     //单精度浮点数，通常4字节</code><br>
+<code class="notranslate">double //双精度浮点数，通常8字节</code><br>
+<code class="notranslate">long double  //扩展精度浮点数，通常10字节或16字节</code><br>
+3）有无符号修饰（有符号类型可以表示正数负数和零；无符号类型可以表示非负数）<br>
+<code class="notranslate">signed int  //有符号整型</code><br>
+<code class="notranslate">unsigned int  //无符号整数</code><br>
+4）zhi</p>
 <h1>5.做计算以及表示区别</h1>
 <p>例：printf("%d/n",11+22）<br>
 %d说明后面一个整数要输出在“”内；<br>
