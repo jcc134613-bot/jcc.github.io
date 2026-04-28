@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>c语言</title><link>https://jcc134613-bot.github.io/jcc.github.io</link><description>c语言的学习</description><copyright>c语言</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/252820894?v=4</url><title>avatar</title><link>https://jcc134613-bot.github.io/jcc.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:20:14 +0000</lastBuildDate><managingEditor>c语言</managingEditor><ttl>60</ttl><webMaster>c语言</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>c语言</title><link>https://jcc134613-bot.github.io/jcc.github.io</link><description>c语言的学习</description><copyright>c语言</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/252820894?v=4</url><title>avatar</title><link>https://jcc134613-bot.github.io/jcc.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:45:02 +0000</lastBuildDate><managingEditor>c语言</managingEditor><ttl>60</ttl><webMaster>c语言</webMaster><item><title>c主要内容</title><link>https://jcc134613-bot.github.io/jcc.github.io/post/c-zhu-yao-nei-rong.html</link><description># 1.程序框架
+例：#include &lt;stdio.h&gt; //代表引入头文件其中std是英语standard的缩写；io是输入输出的缩写；.h表示header头文件的的意思可以进行printf，scanf的使用
+int main(){
+printf('')
+   return 0;
+}
+总结一下就是
+返回类型 函数名（参数列表）{
+函数体
+return 返回值；
+}
+2.返回类型可以是任意类型例如
+整型（整数），浮点型（小数），字符型，自定义类型。</description><guid isPermaLink="true">https://jcc134613-bot.github.io/jcc.github.io/post/c-zhu-yao-nei-rong.html</guid><pubDate>Sun, 04 Jan 2026 09:46:48 +0000</pubDate></item></channel></rss>
